@@ -590,8 +590,8 @@ a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
 		}
 	
 .box1 /* Small box in combination with Box2 */ {
-	background-color: rgb(55, 49, 33, .8);
-    color: #D0c39e;
+	background-color: rgba(117, 100, 94, .8);
+    color: #D4C9C5;
 	text-align: center;
     font-size: 13px;
 	padding: 15px;
@@ -605,8 +605,8 @@ a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
 }
 
 .box2 /* Round Box in combination with Box2 */ {
-	background-color: rgba(96, 104, 66, .7);
-    color: #Abb48f;
+	background-color: rgba(117, 100, 94, .8);
+    color: #D4C9C5;
 	text-align: center;
     font-size: 13px;
 	padding: 15px;
@@ -616,5 +616,5 @@ a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
 	width: 28%;
 	height: 145px;
 	overflow: auto;
-    border: 2px solid rgba(96, 104, 66, .7);
+    border: none;
 }
