@@ -588,4 +588,33 @@ a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
 		div.quote {
 			width: 790px;
 		}
-	}
+	
+.box1 /* Small box in combination with Box2 */ {
+	background-color: rgb(55, 49, 33, .8);
+    color: #D0c39e;
+	text-align: center;
+    font-size: 13px;
+	padding: 15px;
+	margin: 0 2% 30px;
+	border-radius: 10px;
+	float: left;
+	width: 30%;
+	height: 145px;
+	overflow: auto;
+    border: 0px solid #06181e;
+}
+
+.box2 /* Round Box in combination with Box2 */ {
+	background-color: rgba(96, 104, 66, .7);
+    color: #Abb48f;
+	text-align: center;
+    font-size: 13px;
+	padding: 15px;
+	margin: 0 2% 30px;
+	border-radius: 100px;
+	float: left;
+	width: 28%;
+	height: 145px;
+	overflow: auto;
+    border: 2px solid rgba(96, 104, 66, .7);
+}
