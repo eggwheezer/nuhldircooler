@@ -552,7 +552,6 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
         .container.main .hidden-xs {
             display: block !important;
         }
-}
 
 @media only screen and (max-width: 991px) and (min-width: 768px) {
 	display: block !important;
